@@ -28,7 +28,7 @@ from scorecard_functions import *
 ###############################################################################################
 print '##########################################'
 print '第0步：读取与培训数据集相同结构的原始测试数据开始'
-folderOfData = '/home/daoos/Documents/xiaoxiang_fintech/lastdata/'
+folderOfData = '../lastdata/'
 data1b = pd.read_csv(folderOfData + 'LogInfo_9w_2.csv', header=0)
 data2b = pd.read_csv(folderOfData + 'Kesci_Master_9w_gbk_2.csv', header=0, encoding='utf8')
 data3b = pd.read_csv(folderOfData + 'Userupdate_Info_9w_2.csv', header=0)

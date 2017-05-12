@@ -43,7 +43,7 @@ def MakeupRandom(x, sampledList):
         return random.sample(sampledList,1)
 
 
-path='/home/daoos/Documents/xiaoxiang_fintech/day7/';
+path='./'
 data1 = pd.read_csv(path+'/PPD_LogInfo_3_1_Training_Set.csv', header = 0)
 data2 = pd.read_csv(path+'/PPD_Training_Master_GBK_3_1_Training_Set.csv', header = 0)
 data3 = pd.read_csv(path+'/PPD_Userupdate_Info_3_1_Training_Set.csv', header = 0)

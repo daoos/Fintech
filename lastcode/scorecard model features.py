@@ -15,7 +15,7 @@ import pickle
 
 reload(sys)
 sys.setdefaultencoding("utf-8")
-sys.path.append('/home/daoos/Documents/xiaoxiang_fintech/lastdata/')
+# sys.path.append('/home/daoos/Documents/xiaoxiang_fintech/lastdata/')
 from scorecard_functions import *
 from sklearn.linear_model import LogisticRegressionCV
 
@@ -27,7 +27,7 @@ from sklearn.linear_model import LogisticRegressionCV
 # 步骤0：启动数据处理工作，包括读取csv文件，检查Idx的一致性#
 #########################################################################################################
 print '步骤0：启动数据处理工作，包括读取csv文件，检查Idx的一致性'
-folderOfData = '/home/daoos/Documents/xiaoxiang_fintech/lastdata/'
+folderOfData = '../lastdata/'
 
 data1 = pd.read_csv(folderOfData + 'PPD_LogInfo_3_1_Training_Set.csv', header=0)
 data2 = pd.read_csv(folderOfData + 'PPD_Training_Master_GBK_3_1_Training_Set.csv', header=0, encoding='gbk')

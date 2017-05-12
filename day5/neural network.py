@@ -11,7 +11,7 @@ from sklearn.metrics import roc_curve, auc, roc_auc_score, precision_recall_curv
 import operator
 
 print '==================================='
-path = '/home/daoos/Documents/xiaoxiang_fintech/day5/';
+path = './'
 modelData = pd.read_csv(path + '/data/modelData.csv', header=0)
 print '获取数据集的特征字段集'
 allFeatures = list(modelData.columns)

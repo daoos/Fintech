@@ -9,7 +9,7 @@ from itertools import combinations
 import os,sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
-path='/home/daoos/Documents/xiaoxiang_fintech/day8/';
+path='./'
 sys.path.append(path+"/Notes/")
 from scorecard_fucntions import *
 # encoding='utf-8'

@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import GridSearchCV
 
 print '======================================='
-path = '/home/daoos/Documents/xiaoxiang_fintech/day4/';
+path = './'
 ### Step 1: Prepare the prior work ###
 print '步骤1：准备先前的工作'
 ###read the data with pre-processing, like making up the missing value,

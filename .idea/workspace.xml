@@ -2,311 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9415e5b-1e59-477d-81cc-511cf8ce2d94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/AGE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ASSET_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ASSET_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ATM_ACCT_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ATM_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ATM_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ATM_NOT_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/COUNTER_ACCT_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/COUNTER_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/COUNTER_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/COUNTER_NOT_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/CUST_ID.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/FINA_OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/FR_SAV_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/FUND_OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/L6M_INDFINA_ALL_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/L6M_INDFINA_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_BELONEYR_FF_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_BELONEYR_FF_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_ACCT_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_LASTSAV_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_LASTSAV_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_MON_AVG_BAL_PROP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_SAV_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_TRANS_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_TRANS_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_WITHDRAW_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_CUR_WITHDRAW_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_CLOSE_ACC_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_CLOSE_ACC_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_MON_AVG_BAL_PROP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_OPEN_ACC_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_OPEN_ACC_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_WITHDRAW_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_FIX_WITHDRAW_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_OVEONEYR_FF_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_OVEONEYR_FF_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_SAV_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_SAV_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/LOCAL_SAV_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/NAT_DEBT_OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/POS_CONSUME_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/POS_CONSUME_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/SAV_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/SAV_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/SAV_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/TELEBANK_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/avg3mou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/avg3qty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/avg3rev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/avg6mou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/avg6qty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/avgmou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/avgqty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/callfwdv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/callfwdv_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/cc_mou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ccrndmou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/change_mou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/change_rev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/comp_dat_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/comp_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/complete_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/custcare_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/da_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/da_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/datovr_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/datovr_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/drop_blk_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/forgntvl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/hnd_price.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/inonemin_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/iwylis_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/lor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/minzu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/mou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/mou_cvce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/mou_opkv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/mou_peav_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/mou_rvce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/mouiwylisv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/mouowylisv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/opk_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ovrmou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ovrmou_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ovrrev_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/ovrrev_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/owylis_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/peak_dat_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/peak_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/pre_hnd_price.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/recv_vce_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/rev_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/rev_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/roam_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/roam_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/threeway_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/totcalls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/totmou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/totmrc_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/unan_dat_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/unan_dat_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/unan_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/unan_vce_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/vceovr_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures1/vceovr_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/AGE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ASSET_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ASSET_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ATM_ACCT_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ATM_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ATM_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ATM_NOT_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/COUNTER_ACCT_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/COUNTER_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/COUNTER_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/COUNTER_NOT_ACCT_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/CUST_ID.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/FINA_OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/FR_SAV_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/FUND_OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/L6M_INDFINA_ALL_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/L6M_INDFINA_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_BELONEYR_FF_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_BELONEYR_FF_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_ACCT_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_LASTSAV_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_LASTSAV_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_MON_AVG_BAL_PROP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_SAV_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_TRANS_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_TRANS_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_WITHDRAW_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_CUR_WITHDRAW_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_CLOSE_ACC_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_CLOSE_ACC_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_MON_AVG_BAL_PROP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_OPEN_ACC_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_OPEN_ACC_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_WITHDRAW_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_FIX_WITHDRAW_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_OVEONEYR_FF_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_OVEONEYR_FF_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_SAV_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_SAV_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/LOCAL_SAV_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/NAT_DEBT_OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/OPEN_ACC_DUR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/POS_CONSUME_TX_AMT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/POS_CONSUME_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/SAV_CUR_ALL_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/SAV_MON_AVG_BAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/SAV_SLOPE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/TELEBANK_ALL_TX_NUM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/avg3mou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/avg3qty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/avg3rev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/avg6mou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/avg6qty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/avgmou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/avgqty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/callfwdv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/callfwdv_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/cc_mou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ccrndmou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/change_mou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/change_rev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/comp_dat_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/comp_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/complete_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/custcare_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/da_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/da_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/datovr_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/datovr_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/drop_blk_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/forgntvl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/hnd_price.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/inonemin_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/iwylis_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/lor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/minzu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/mou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/mou_cvce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/mou_opkv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/mou_peav_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/mou_rvce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/mouiwylisv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/mouowylisv_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/opk_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ovrmou_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ovrmou_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ovrrev_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/ovrrev_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/owylis_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/peak_dat_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/peak_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/pre_hnd_price.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/recv_vce_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/rev_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/rev_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/roam_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/roam_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/threeway_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/totcalls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/totmou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/totmrc_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/unan_dat_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/unan_dat_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/unan_vce_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/unan_vce_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/vceovr_Mean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures2/vceovr_Range.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/GENDER_CD.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/HASNT_HOME_ADDRESS_INF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/HASNT_MOBILE_TEL_NUM_INF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/asl_flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/buy_phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/car_buy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/kid0_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/kid11_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/kid16_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/kid3_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/kid6_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/marital.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/open_date.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/pcowner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/proptype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/Notes/Pictures3/wrkwoman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/data/variable dictionary for internal data.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/×Ö¶ÎÀàÐÍËµÃ÷ÎÄµµ.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastcode/使用说明.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Fintech.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/bank_attrition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/data/ExternalData.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/data/bankChurn.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/data/variable dictionary for external data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day3/data/ExternalData.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day3/data/bankChurn.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day3/data/modelData.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day3/outlier_and_missing_value.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day4/GBDT for Bank Churn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day4/data/modelData.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5/data/modelData.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5/neural network.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/PPD_LogInfo_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/PPD_Training_Master_GBK_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6/PPD_Userupdate_Info_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day7/ChiMerge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day7/PPD_LogInfo_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day7/PPD_Training_Master_GBK_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day7/PPD_Userupdate_Info_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day7/allData.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day7/scorecard model features.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/PPD_LogInfo_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/PPD_Training_Master_GBK_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/PPD_Userupdate_Info_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/allData_0.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/allData_1b.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/scorecard model features.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/scorecard model features0.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day8/scorecard_fucntions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day9/Kesci_Master_9w_gbk_2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day9/LogInfo_9w_2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day9/Scorecard Model Testing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day9/Userupdate_Info_9w_2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day9/scorecard model features.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day9/scorecard_fucntions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastcode/Scorecard Model Testing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastcode/Scorecard Model Testing1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastcode/scorecard model features.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastcode/scorecard_functions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/Kesci_Master_9w_gbk_2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/LR_Model_Normal.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/LogInfo_9w_2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/PPD_LogInfo_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/PPD_Training_Master_GBK_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/PPD_Userupdate_Info_3_1_Training_Set.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/Userupdate_Info_9w_2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/allData_0.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/allData_0_Test.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/allData_1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/allData_2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/allData_3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/categorical_var.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/encoded_features.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/merged_features.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/numerical_var.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/var_IV.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/var_WOE.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lastdata/var_cutoff.pkl" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day8/scorecard model features0.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lastcode/Scorecard Model Testing1.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day2/bank_attrition.py" afterPath="$PROJECT_DIR$/day2/bank_attrition.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day3/outlier_and_missing_value.py" afterPath="$PROJECT_DIR$/day3/outlier_and_missing_value.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day4/GBDT for Bank Churn.py" afterPath="$PROJECT_DIR$/day4/GBDT for Bank Churn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day5/neural network.py" afterPath="$PROJECT_DIR$/day5/neural network.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day7/scorecard model features.py" afterPath="$PROJECT_DIR$/day7/scorecard model features.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day8/scorecard model features.py" afterPath="$PROJECT_DIR$/day8/scorecard model features.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lastcode/Scorecard Model Testing.py" afterPath="$PROJECT_DIR$/lastcode/Scorecard Model Testing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lastcode/scorecard model features.py" afterPath="$PROJECT_DIR$/lastcode/scorecard model features.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -318,11 +24,105 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bank_attrition.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bank_attrition.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day2/bank_attrition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7152">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="260">
+              <caret line="171" column="11" lean-forward="true" selection-start-line="171" selection-start-column="11" selection-end-line="171" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GBDT for Bank Churn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/GBDT for Bank Churn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neural network.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day5/neural network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChiMerge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7/ChiMerge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4903">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scorecard model features.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7/scorecard model features.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scorecard model features.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8/scorecard model features.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scorecard model features.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9/scorecard model features.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-240">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scorecard model features.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lastcode/scorecard model features.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scorecard Model Testing.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lastcode/Scorecard Model Testing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12576">
+              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="outlier_and_missing_value.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3/outlier_and_missing_value.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3072">
+              <caret line="158" column="11" lean-forward="true" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -332,6 +132,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day3/outlier_and_missing_value.py" />
+        <option value="$PROJECT_DIR$/day2/bank_attrition.py" />
+        <option value="$PROJECT_DIR$/day4/GBDT for Bank Churn.py" />
+        <option value="$PROJECT_DIR$/day5/neural network.py" />
+        <option value="$PROJECT_DIR$/day7/scorecard model features.py" />
+        <option value="$PROJECT_DIR$/day8/scorecard model features.py" />
+        <option value="$PROJECT_DIR$/lastcode/scorecard model features.py" />
+        <option value="$PROJECT_DIR$/lastcode/Scorecard Model Testing.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -383,6 +197,118 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lastcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fintech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="day2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -409,6 +335,150 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fintech" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fintech" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fintech" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fintech" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Fintech" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fintech" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fintech" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -424,9 +494,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1418" y="-4" width="1869" height="1085" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -458,10 +527,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day3/outlier_and_missing_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3072">
+          <caret line="158" column="11" lean-forward="true" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day2/bank_attrition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7152">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="260">
+          <caret line="171" column="11" lean-forward="true" selection-start-line="171" selection-start-column="11" selection-end-line="171" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/GBDT for Bank Churn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/neural network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/ChiMerge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4903">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/scorecard model features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/scorecard model features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9/scorecard model features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lastcode/scorecard model features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lastcode/Scorecard Model Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12576">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding />
         </state>
       </provider>

@@ -156,7 +156,7 @@ def ColumnDivide(df, colNumerator, colDenominator):
 
 
 print '================================'
-path = '/home/daoos/Documents/xiaoxiang_fintech/day3/';
+path = './'
 bankChurn = pd.read_csv(path + '/data/bankChurn.csv', header=0)
 externalData = pd.read_csv(path + '/data/ExternalData.csv', header=0)
 # merge two dataframes

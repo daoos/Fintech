@@ -169,7 +169,7 @@ def CharVarPerf1(df, col, target, filepath):
 # 读取内部数据和外部数据
 # 'path' is the path for students' folder which contains the lectures of xiaoxiang
 print '读取客户详细信息数据集中的数据：客户详细信息和字段字典,读取内部数据和外部数据'
-path = '/home/daoos/Documents/xiaoxiang_fintech/day2/';
+path = './'
 bankChurn = pd.read_csv(path + '/data/bankChurn.csv', header=0)
 externalData = pd.read_csv(path + '/data/ExternalData.csv', header=0)
 # 合并数据
